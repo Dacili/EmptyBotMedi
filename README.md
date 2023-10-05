@@ -19,7 +19,13 @@ https://github.com/Dacili/EmptyBotMedi/assets/37112852/f9dc7865-5573-4b0a-8697-a
 
  
 Once you're done with making the structure, click on Restart bot, and after it's done, click on the icon for Testing chatbot:  
-![image](https://github.com/Dacili/EmptyBotMedi/assets/37112852/bb5eb105-54fd-410b-8be4-e5acf134d63d)
+![image](https://github.com/Dacili/EmptyBotMedi/assets/37112852/bb5eb105-54fd-410b-8be4-e5acf134d63d)  
+Demo of chatbot order me pizza flow:  
+
+
+https://github.com/Dacili/EmptyBotMedi/assets/37112852/34670775-a4df-4aa8-81d6-23b86702b3c9
+
+
 
 
 
