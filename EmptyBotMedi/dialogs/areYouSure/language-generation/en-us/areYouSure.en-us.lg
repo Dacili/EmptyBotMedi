@@ -1,0 +1,9 @@
+[import](common.lg)
+
+# TextInput_Prompt_Q2azsP()
+[Activity
+    Text = ${TextInput_Prompt_Q2azsP_text()}
+]
+
+# TextInput_Prompt_Q2azsP_text()
+- Please confirm your order.

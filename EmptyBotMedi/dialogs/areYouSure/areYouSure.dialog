@@ -1,0 +1,38 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "M6lFYb",
+    "name": "areYouSure",
+    "comment": ""
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "description": "",
+        "id": "4uudul"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.TextInput",
+          "$designer": {
+            "id": "Q2azsP"
+          },
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${TextInput_Prompt_Q2azsP()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": ""
+        }
+      ]
+    }
+  ],
+  "generator": "areYouSure.lg",
+  "recognizer": "areYouSure.lu.qna",
+  "id": "areYouSure"
+}

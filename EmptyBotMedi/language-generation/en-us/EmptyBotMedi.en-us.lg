@@ -1,0 +1,76 @@
+[import](common.lg)
+
+# SendActivity_Greeting()
+[Activity
+    Text = ${SendActivity_Greeting_text()}
+]
+
+# SendActivity_Greeting_text()
+- ```${turn.activity.action}
+Welcome to Mediii bot.```
+# SendActivity_DidNotUnderstand()
+[Activity
+    Text = ${SendActivity_DidNotUnderstand_text()}
+]
+
+# SendActivity_DidNotUnderstand_text()
+- ```Sorry, I didn't get that.
+```
+# SendActivity_EnZpJh()
+[Activity
+    Text = ${SendActivity_Inventor()}
+]
+
+# SendActivity_EnZpJh_text()
+- Medi invented me.
+# SendActivity_Inventor()
+- Medi invented me.
+# TextInput_Prompt_Pcz17a()
+[Activity
+    Text = ${TextInput_Prompt_Pcz17a_text()}
+]
+
+# TextInput_Prompt_Pcz17a_text()
+- She is my inventor.
+# ChoiceInput_Prompt_4CRlO1()
+[Activity
+    Text = ${ChoiceInput_Prompt_4CRlO1_text()}
+]
+
+# ChoiceInput_Prompt_4CRlO1_text()
+- Which type of pizza do you want?
+# ConfirmInput_Prompt_erO0zc()
+[Activity
+    Text = ${ConfirmInput_Prompt_erO0zc_text()}
+]
+
+# ConfirmInput_Prompt_erO0zc_text()
+- Are you sure you want ${user.pizzaType}?
+# SendActivity_LeD1s3()
+[Activity
+    Text = ${SendActivity_LeD1s3_text()}
+]
+
+# SendActivity_LeD1s3_text()
+- You successfully ordered ${user.pizzaType}  pizza. Thank you for using Medi chatbot.
+# SendActivity_vGzDxr()
+[Activity
+    Text = ${SendActivity_vGzDxr_text()}
+]
+
+# SendActivity_vGzDxr_text()
+- User canceled order.
+# SendActivity_DLwnjk()
+[Activity
+    Text = ${SendActivity_DLwnjk_text()}
+]
+
+# SendActivity_DLwnjk_text()
+- Sorry we encountered some issues while making your order. Please try later.
+# SendActivity_CsifAm()
+[Activity
+    Text = ${SendActivity_CsifAm_text()}
+]
+
+# SendActivity_CsifAm_text()
+- Your order is confirmed. Expect delivery soon.

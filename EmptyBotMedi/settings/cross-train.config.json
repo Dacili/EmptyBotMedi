@@ -1,0 +1,10 @@
+{
+  "EmptyBotMedi.en-us": {
+    "rootDialog": true,
+    "triggers": {
+      "WhoIsYourInventor": "",
+      "WhoIsMedi": "",
+      "OrderMePizza": ""
+    }
+  }
+}
