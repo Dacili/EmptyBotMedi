@@ -13,7 +13,13 @@ Once you created intent, you can click on + sign and create a lot of different t
 Demo of structure for intent OrderMePizza:   
 
 
-https://github.com/Dacili/EmptyBotMedi/assets/37112852/4619d2d2-cf64-4a2f-bb69-ecd501c66c6d
+
+https://github.com/Dacili/EmptyBotMedi/assets/37112852/f9dc7865-5573-4b0a-8697-ac9fd3b5c92c  
+
+
+ 
+Once you're done with making the structure, click on Restart bot, and after it's done, click on the icon for Testing chatbot:  
+![image](https://github.com/Dacili/EmptyBotMedi/assets/37112852/bb5eb105-54fd-410b-8be4-e5acf134d63d)
 
 
 
